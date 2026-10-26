@@ -4,6 +4,8 @@
 tiles; tap the syllables **in order** to spell the word. Built on
 [Hero](https://github.com/mesopelagique/Hero) (`cs.hero`).
 
+<p align="center"><img src="Documentation/buildword.gif" width="320" alt="BuildWord — empty slots and shuffled syllable tiles; tap them in order to spell the word" /></p>
+
 ## Play
 
 Open the project — `On Startup` launches it. Tap the tiles in order: the next correct syllable
